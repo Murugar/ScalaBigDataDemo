@@ -7,9 +7,12 @@ Use Docker to run all the essential services
 
 Run the Producer    
 
-Run the Spark Streamer   
+Then Run the Spark Streamer   
 
-Do the Analytics using Jupyter    
+Then Do the Analytics using Jupyter    
+
+
+
 
 
 
